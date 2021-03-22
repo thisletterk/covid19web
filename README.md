@@ -1,3 +1,11 @@
+Get real time information for any country
+
+Search covid19 information for any country.
+
+Sample search example: Brazil, USA, UAE, South-Africa
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
